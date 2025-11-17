@@ -39,39 +39,40 @@ The app loads workout data from JSON files located in the `Data/summaries/` dire
 ## Demo
 
 ### Video Demo
-[Watch Video Demo](./Video%20Demo.mp4)
+
+https://github.com/user-attachments/assets/video-demo.mp4
+
+> **Note:** Video player may take a moment to load. You can also [download the video](./Video%20Demo.mp4) to watch locally.
 
 ### Screenshots
 
-<div align="center">
-  <img src="./Screenshots/1-light.png" width="250" alt="Exercise List Light Mode">
-  <img src="./Screenshots/1-dark.png" width="250" alt="Exercise List Dark Mode">
-</div>
+#### Light Mode
+<table>
+  <tr>
+    <td align="center"><img src="./Screenshots/1-light.png" width="200"/><br/><sub>Exercise List</sub></td>
+    <td align="center"><img src="./Screenshots/2-light.png" width="200"/><br/><sub>Exercise Detail</sub></td>
+    <td align="center"><img src="./Screenshots/3-light.png" width="200"/><br/><sub>Performance Chart</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./Screenshots/4-light.png" width="200"/><br/><sub>Metrics View</sub></td>
+    <td align="center"><img src="./Screenshots/5-light.png" width="200"/><br/><sub>Search Feature</sub></td>
+    <td align="center"><img src="./Screenshots/6-light.png" width="200"/><br/><sub>Progress Tracking</sub></td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="./Screenshots/2-light.png" width="250" alt="Exercise Detail Light Mode">
-  <img src="./Screenshots/2-dark.png" width="250" alt="Exercise Detail Dark Mode">
-</div>
-
-<div align="center">
-  <img src="./Screenshots/3-light.png" width="250" alt="Performance Chart Light Mode">
-  <img src="./Screenshots/3-dark.png" width="250" alt="Performance Chart Dark Mode">
-</div>
-
-<div align="center">
-  <img src="./Screenshots/4-light.png" width="250" alt="Metrics View Light Mode">
-  <img src="./Screenshots/4-dark.png" width="250" alt="Metrics View Dark Mode">
-</div>
-
-<div align="center">
-  <img src="./Screenshots/5-light.png" width="250" alt="Search Feature Light Mode">
-  <img src="./Screenshots/5-dark.png" width="250" alt="Search Feature Dark Mode">
-</div>
-
-<div align="center">
-  <img src="./Screenshots/6-light.png" width="250" alt="Progress Tracking Light Mode">
-  <img src="./Screenshots/6-dark.png" width="250" alt="Progress Tracking Dark Mode">
-</div>
+#### Dark Mode
+<table>
+  <tr>
+    <td align="center"><img src="./Screenshots/1-dark.png" width="200"/><br/><sub>Exercise List</sub></td>
+    <td align="center"><img src="./Screenshots/2-dark.png" width="200"/><br/><sub>Exercise Detail</sub></td>
+    <td align="center"><img src="./Screenshots/3-dark.png" width="200"/><br/><sub>Performance Chart</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./Screenshots/4-dark.png" width="200"/><br/><sub>Metrics View</sub></td>
+    <td align="center"><img src="./Screenshots/5-dark.png" width="200"/><br/><sub>Search Feature</sub></td>
+    <td align="center"><img src="./Screenshots/6-dark.png" width="200"/><br/><sub>Progress Tracking</sub></td>
+  </tr>
+</table>
 
 ---
 
