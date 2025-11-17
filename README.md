@@ -49,8 +49,8 @@ https://github.com/user-attachments/assets/video-demo.mp4
 #### Light Mode
 <table>
   <tr>
-    <td align="center"><img src="./Screenshots/1-light.png" width="200"/><br/><sub>Exercise List</sub></td>
-    <td align="center"><img src="./Screenshots/2-light.png" width="200"/><br/><sub>Exercise Detail</sub></td>
+    <td align="center"><img src="./Screenshots/2-light.png" width="200"/><br/><sub>Exercise List</sub></td>
+    <td align="center"><img src="./Screenshots/1-light.png" width="200"/><br/><sub>Exercise Detail</sub></td>
     <td align="center"><img src="./Screenshots/3-light.png" width="200"/><br/><sub>Performance Chart</sub></td>
   </tr>
   <tr>
@@ -63,8 +63,8 @@ https://github.com/user-attachments/assets/video-demo.mp4
 #### Dark Mode
 <table>
   <tr>
-    <td align="center"><img src="./Screenshots/1-dark.png" width="200"/><br/><sub>Exercise List</sub></td>
-    <td align="center"><img src="./Screenshots/2-dark.png" width="200"/><br/><sub>Exercise Detail</sub></td>
+    <td align="center"><img src="./Screenshots/2-dark.png" width="200"/><br/><sub>Exercise List</sub></td>
+    <td align="center"><img src="./Screenshots/1-dark.png" width="200"/><br/><sub>Exercise Details</sub></td>
     <td align="center"><img src="./Screenshots/3-dark.png" width="200"/><br/><sub>Performance Chart</sub></td>
   </tr>
   <tr>
