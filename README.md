@@ -42,7 +42,7 @@ The app loads workout data from JSON files located in the `Data/summaries/` dire
 <video src="https://github.com/tyleradamscode/Health-Tracker/blob/main/Video%20Demo.mov" width="80%" controls></video>
 </p>
 
-> **Note:** Video player may take a moment to load. You can also [download the video](./Video%20Demo.mp4) to watch locally.
+> **Note:** Video player may take a moment to load. You can also [download the video]([./Video%20Demo.mp4](https://github.com/tyleradamscode/Health-Tracker/blob/main/Video%20Demo.mov)) to watch locally.
 
 ### Screenshots
 
